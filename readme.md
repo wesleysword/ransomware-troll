@@ -7,3 +7,5 @@ Criação de um ransomware pra criptografia e descriptografia de um arquivo, ond
 Tanto o arquivo de criptografia quanto o de descriptografia foram criados usando a linguagem "Python".
 
 ## Exemplo do arquivo criptografado:
+![Captura de tela 2024-12-30 150508](https://github.com/user-attachments/assets/85789282-61ae-4017-8eb7-95b9335d5794)
+
